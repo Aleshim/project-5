@@ -130,7 +130,7 @@ h1 {
 .img-product {
     height: 100%;
     position: absolute;
-    left: 235px;
+    right: 0px;
     top: 0px;
 }
 
